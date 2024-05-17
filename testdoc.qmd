@@ -1,0 +1,14 @@
+---
+title: "test document"
+author: "Sarah Tate"
+format: html
+editor: visual
+---
+
+Here is some code
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
+
